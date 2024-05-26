@@ -48,6 +48,8 @@ public class HelloController {
         }
     }
 
+
+
     @FXML
     void cpuClick(ActionEvent event) {
 
